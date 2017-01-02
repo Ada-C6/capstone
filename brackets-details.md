@@ -6,7 +6,7 @@
 
 ## [Capstone Groups](/groups.md)
 
-### PM: Dan
+### [PM: Dan](https://calendar.google.com/calendar/selfsched?sstoken=UU84WlgwT2lZNFpEfGRlZmF1bHR8YThhYWRhOTkwZDhlMTIzMGRlMDIwODNhN2U2MjJlMmE)
 
 Group 1
 - Kate
@@ -26,7 +26,7 @@ Group 3
 - Beylul
 - Yuri
 
-### PM: Kari
+### [PM: Kari](https://calendar.google.com/calendar/selfsched?sstoken=UUpTeHp5bzR4dno0fGRlZmF1bHR8OWJiNjg2MGM1OWZmNzdhYjcyN2UzNDk0YTFiNDgwYzc)
 
 Group 4
 - Sarah
