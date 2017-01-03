@@ -26,7 +26,7 @@ Group 3
 - Briana
 
 
-### PM: Chris (appointment calendar coming soon)
+### [PM: Chris](https://calendar.google.com/calendar/selfsched?sstoken=UUdleE5VNEg4R2dIfGRlZmF1bHR8ODAyMzEyYjkzYTNlZDNjOWM2MmE3YzViZmMwODFkYzg)
 
 Group 4
 - Yael
